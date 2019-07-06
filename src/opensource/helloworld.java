@@ -6,7 +6,7 @@ public static void hello() {
  	 	System.out.println("hello beautiful world!");
 	}
     for (int i = 1; i <= 3; i++) {
-        System.out.println("hello world!");
+        System.out.println("hello beautiful world!");
     }
 } 
  public static void main(String[] args) {
